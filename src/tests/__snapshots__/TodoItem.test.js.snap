@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test todoitem component 1`] = `
+<div
+  className="todo-item"
+>
+  <h2 />
+</div>
+`;
+
+exports[`test todoitem component 2`] = `
+<div
+  className="todo-item"
+>
+  <h2>
+    read
+  </h2>
+</div>
+`;
